@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Estevan-NEXT.JS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
           -->
  
-  <i align="center" alt="Estevan-NEXT.JS" height="55" width="55"  class="devicon-nextjs-plain-wordmark"></i>
+  <i style="align="center", alt="Estevan-NEXT.JS", height="55", width="55""  class="devicon-nextjs-plain-wordmark"></i>
 
   <img align="center" alt="Estevan-REACT.JS" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />            
   <img align="center" alt="Estevan-NPM" height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
